@@ -1,0 +1,8 @@
+//        Istok is = new Istok(0,1,true);
+//        TreeMap<Double,Double> map =  is.getlight(new Okr(0,4,2));
+//
+//        for(double i: map.keySet()) {
+//            if ((i + 0.01) != map.lastKey()) {
+//                System.out.println(i + "  " + map.get(i));
+//            }
+//        }
